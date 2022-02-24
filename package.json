@@ -4,7 +4,8 @@
   "description": "task-app",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon src/server.js"
+    "start": "node src/server.js",
+    "run": "nodemon src/server.js"
   },
   "author": "",
   "license": "ISC",
