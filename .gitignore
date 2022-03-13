@@ -12,7 +12,8 @@ node_modules/
 /build
 
 # misc
-.env
+dev.env
+test.env
 .DS_Store
 .env.local
 .env.development.local
